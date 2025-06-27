@@ -38,6 +38,6 @@ In today's highly competitive retail environment, businesses must continuously o
 
 > [Key insights](Retail%20Business%20Key%20insights.docx)
 
-> [Report](Retail%20Business%20Key%20insights.docx)
+> [Report](Retail%20Business%20Performance%20report.docx)
 
 
