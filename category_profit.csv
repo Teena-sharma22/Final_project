@@ -1,0 +1,81 @@
+Category,Sub-Category,Total_Sales,Total Cost,Profit,Profit_Margin
+Beauty,Accessories,0,0,0,
+Beauty,Cookware,0,0,0,
+Beauty,Decor,0,0,0,
+Beauty,Fitness,0,0,0,
+Beauty,Furniture,0,0,0,
+Beauty,Haircare,189505,146543,42962,22.670641935568984
+Beauty,Jackets,0,0,0,
+Beauty,Jeans,0,0,0,
+Beauty,Laptops,0,0,0,
+Beauty,Makeup,163779,128402,35377,21.600449386062927
+Beauty,Mobiles,0,0,0,
+Beauty,Outdoor,0,0,0,
+Beauty,Shirts,0,0,0,
+Beauty,Skincare,188122,144935,43187,22.956910940772477
+Beauty,Sportswear,0,0,0,
+Beauty,T-Shirts,0,0,0,
+Clothing,Accessories,0,0,0,
+Clothing,Cookware,0,0,0,
+Clothing,Decor,0,0,0,
+Clothing,Fitness,0,0,0,
+Clothing,Furniture,0,0,0,
+Clothing,Haircare,0,0,0,
+Clothing,Jackets,135444,104213,31231,23.058238091019167
+Clothing,Jeans,127092,98074,29018,22.832278979007334
+Clothing,Laptops,0,0,0,
+Clothing,Makeup,0,0,0,
+Clothing,Mobiles,0,0,0,
+Clothing,Outdoor,0,0,0,
+Clothing,Shirts,144326,112289,32037,22.197663622632096
+Clothing,Skincare,0,0,0,
+Clothing,Sportswear,0,0,0,
+Clothing,T-Shirts,121988,92616,29372,24.077778142112336
+Electronics,Accessories,167115,129722,37393,22.3756096101487
+Electronics,Cookware,0,0,0,
+Electronics,Decor,0,0,0,
+Electronics,Fitness,0,0,0,
+Electronics,Furniture,0,0,0,
+Electronics,Haircare,0,0,0,
+Electronics,Jackets,0,0,0,
+Electronics,Jeans,0,0,0,
+Electronics,Laptops,170542,129308,41234,24.178208300594576
+Electronics,Makeup,0,0,0,
+Electronics,Mobiles,185927,143646,42281,22.740645522167302
+Electronics,Outdoor,0,0,0,
+Electronics,Shirts,0,0,0,
+Electronics,Skincare,0,0,0,
+Electronics,Sportswear,0,0,0,
+Electronics,T-Shirts,0,0,0,
+Home & Kitchen,Accessories,0,0,0,
+Home & Kitchen,Cookware,194032,146127,47905,24.689226519337016
+Home & Kitchen,Decor,185504,140179,45325,24.43343539761946
+Home & Kitchen,Fitness,0,0,0,
+Home & Kitchen,Furniture,185249,141949,43300,23.373945338436375
+Home & Kitchen,Haircare,0,0,0,
+Home & Kitchen,Jackets,0,0,0,
+Home & Kitchen,Jeans,0,0,0,
+Home & Kitchen,Laptops,0,0,0,
+Home & Kitchen,Makeup,0,0,0,
+Home & Kitchen,Mobiles,0,0,0,
+Home & Kitchen,Outdoor,0,0,0,
+Home & Kitchen,Shirts,0,0,0,
+Home & Kitchen,Skincare,0,0,0,
+Home & Kitchen,Sportswear,0,0,0,
+Home & Kitchen,T-Shirts,0,0,0,
+Sports,Accessories,0,0,0,
+Sports,Cookware,0,0,0,
+Sports,Decor,0,0,0,
+Sports,Fitness,181756,141251,40505,22.285371597086204
+Sports,Furniture,0,0,0,
+Sports,Haircare,0,0,0,
+Sports,Jackets,0,0,0,
+Sports,Jeans,0,0,0,
+Sports,Laptops,0,0,0,
+Sports,Makeup,0,0,0,
+Sports,Mobiles,0,0,0,
+Sports,Outdoor,166893,129422,37471,22.45211003457305
+Sports,Shirts,0,0,0,
+Sports,Skincare,0,0,0,
+Sports,Sportswear,167196,128973,38223,22.861192851503624
+Sports,T-Shirts,0,0,0,
