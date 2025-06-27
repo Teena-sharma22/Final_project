@@ -34,7 +34,7 @@ In today's highly competitive retail environment, businesses must continuously o
 
 > [category details](category_profit.csv)
 
-> [Dashboard](final_project_dashboard.pbix)
+> [Dashboard](final_project_dashboard.pdf)
 
 > [Key insights](Retail%20Business%20Key%20insights.docx)
 
